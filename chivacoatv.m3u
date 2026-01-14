@@ -1,0 +1,64 @@
+#EXTM3U
+#EXTINF:30, Canal Once Del Zulia | VE
+#EXTVLCOPT:network-caching=1000
+https://streaming5.globalhostla.com/rtplive/canalzulia/playlist.m3u8?PlaylistM3UCL
+#EXTINF:29, Promar TV | VE
+#EXTVLCOPT:network-caching=1000
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Reforma TV | VE
+#EXTVLCOPT:network-caching=1000
+https://5bf8041cb3fed.streamlock.net:443/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:46, Telearagua | VE
+#EXTVLCOPT:network-caching=1000
+http://45.173.198.59:8080/hls/nginx3.m3u8?PlaylistM3UCL
+#EXTINF:30, Retro Plus TV | CL
+#EXTVLCOPT:network-caching=1000
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Retro Plus TV Señal 2 | CL
+#EXTVLCOPT:network-caching=1000
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Retro Plus TV Señal 3 | CL
+#EXTVLCOPT:network-caching=1000
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:29, Recuerdos Retro Radio TV | CL
+#EXTVLCOPT:network-caching=1000
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:29, Anzoategui TV | VE
+#EXTVLCOPT:network-caching=1000
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:25, Mundo de la Musica TV | CL
+#EXTVLCOPT:network-caching=1000
+https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:27, Chivacoa TV | VE
+#EXTVLCOPT:network-caching=1000
+https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/playlist.m3u8?PlaylistM3UCL
+#EXTINF:29, TRV | VE
+#EXTVLCOPT:network-caching=1000
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:27, TV FANB | VE
+#EXTVLCOPT:network-caching=1000
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8?PlaylistM3UCL
+#EXTINF:31, TRT | VE
+#EXTVLCOPT:network-caching=1000
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8?PlaylistM3UCL
+#EXTINF:33, Torococo TV | VE
+#EXTVLCOPT:network-caching=1000
+https://us.streaminghd.cl/torococotelevision/video.m3u8?PlaylistM3UCL
+#EXTINF:25, Somos TV | VE
+#EXTVLCOPT:network-caching=1000
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:24, Net Channel | VE
+#EXTVLCOPT:network-caching=1000
+https://media.streambrothers.com:19360/8134/8134.m3u8?PlaylistM3UCL
+#EXTINF:80, Aguacate TV | VE
+#EXTVLCOPT:network-caching=1000
+https://streamtv.intervenhosting.net:3040/live/aguacatetvbqtolive.m3u8?PlaylistM3UCL
+#EXTINF:27, Net Channel Señal 2 | VE
+#EXTVLCOPT:network-caching=1000
+https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
+#EXTINF:23, Grande Television | VE
+#EXTVLCOPT:network-caching=1000
+https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8?PlaylistM3UCL
+#EXTINF:24, Rewind Music Channel | VE
+#EXTVLCOPT:network-caching=1000
+https://media.streambrothers.com:19360/adxwrggswc/adxwrggswc.m3u8?PlaylistM3UCL
